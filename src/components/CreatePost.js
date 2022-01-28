@@ -74,7 +74,7 @@ class CreatePost extends Component {
                   rows="3"
                   cols="40"
                   required
-                  placeholder="amongusfortnietballs"
+                  placeholder="I AM THE SMARTEST PROGRAMMER KNOWN TO MAN"
                   value={this.state.postBody}
                   onChange={this.handleChangePost}
                   />
